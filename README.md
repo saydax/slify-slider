@@ -2,6 +2,6 @@
 
 Improve and Send
 
-![alt text](https://raw.githubusercontent.com/saydax/slify-slider/img/demo.png)
+![alt text](https://raw.githubusercontent.com/saydax/slify-slider/master/img/demo.png)
 
 
