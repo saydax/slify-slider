@@ -1,7 +1,9 @@
 # Slify-Slider nice thing :)
 
-Improve and Send
+#Improve and Send
 
-![alt text](https://raw.githubusercontent.com/saydax/slify-slider/master/img/demo.png)
+# [Demo](https://saydax.github.io/slify-slider/)
+
+#![alt text](https://raw.githubusercontent.com/saydax/slify-slider/master/img/demo.png)
 
 
