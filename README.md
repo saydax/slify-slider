@@ -4,6 +4,6 @@
 
 # [Demo](https://saydax.github.io/slify-slider/)
 
-#![alt text](https://raw.githubusercontent.com/saydax/slify-slider/master/img/demo.png)
+![alt text](https://raw.githubusercontent.com/saydax/slify-slider/master/img/demo.png)
 
 
